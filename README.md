@@ -132,10 +132,10 @@ write html and css code for design
    ```
 
 ## Output:
-![OUTOUT](./cover.jpg)
+![OUTOUT](./cover1.jpg)
 
 ## HTML VALIDATOR
-![HTML VALIDATOR](./covervalid.jpg)
+![HTML VALIDATOR](./valid6.jpg)
 
 ## Result:
 the program for design book cover page using HTML and CSS is succesfully
