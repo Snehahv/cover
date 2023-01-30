@@ -131,6 +131,12 @@ write html and css code for design
    </html>
    ```
 
+
+
+
+
+
+
 ## Output:
 ![OUTOUT](./cover1.jpg)
 
